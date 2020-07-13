@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lesliesam/react-native-wheel-picker.git"
+    "url": "git@github.com:tilted-tm/react-native-wheel-picker.git"
   },
   "keywords": [
     "react-native",
@@ -17,9 +17,6 @@
   ],
   "author": "Yu Zheng",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lesliesam/react-native-wheel-picker/issues"
-  },
-  "homepage": "https://github.com/lesliesam/react-native-wheel-picker#readme",
+  "homepage": "https://github.com/tilted-tm/react-native-wheel-picker",
   "dependencies": {}
 }
